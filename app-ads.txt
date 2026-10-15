@@ -1,0 +1,2 @@
+# Pega aquí la línea exacta que te da AdMob (Aplicaciones → app-ads.txt). Formato:
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
